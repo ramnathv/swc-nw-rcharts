@@ -1,6 +1,6 @@
 ---
 title       : Interactive Visualizations
-subtitle    : rCharts, UseR 2014
+subtitle    : SWC NW, Nov 1st 2014
 author      : Ramnath Vaidyanathan (@ramnath_vaidya)
 job         : McGill University
 --- .nobackground .quote
